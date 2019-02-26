@@ -2,7 +2,7 @@ package cse360assign2;
 
 /**
  * 	@author Andrew T Nguyen
- * 	Class: CSE 330 W-3:05pm
+ * 	Class: CSE 360 W-3:05pm
  * 	Professor: Debra Calliss
  *  Class ID: 505
  *  Assignment 2
